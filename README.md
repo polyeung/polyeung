@@ -1,4 +1,4 @@
-### Hi there 👋, Hi! I am Yang
+Hi! I am Yang 👋
 I am a software developer and also a student in University of Michigan CSE.
 
 Skills: Angular JS / REACT / JS / HTML / CSS/ Python/ C++/ Go/ AWS
