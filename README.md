@@ -1,6 +1,6 @@
-Hi! I am Yang 👋\
+Hi! I am Yang 👋
 
-[Personal Website](https://liyangg.com)\
+[Personal Website](https://liyangg.com)
 
 I am a software developer and also a student in University of Michigan CSE.
 
