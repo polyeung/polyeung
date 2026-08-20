@@ -1,8 +1,9 @@
 Hi! I am Leon 👋
 
 [Personal Website](https://liyangg.com)
+[LinkedIn](https://www.linkedin.com/in/yang0921/)
 
-I am a software developer and also a student in University of Michigan CSE.
+I am a software developer and also a student in University of Michigan CSE. Currently in MCS UIUC
 
 Skills: Angular JS / REACT / Typescript/ VueJS / HTML / CSS/ Python/ Flask/ Django/ C++/ Go/ AWS / Material UI
 
